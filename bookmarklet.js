@@ -1,0 +1,1 @@
+(function(){open('bookends:///?&beurl='+encodeURIComponent(location.href),'_self'); })();
